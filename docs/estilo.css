@@ -1,10 +1,11 @@
 body{
-    background-color: rgb(0, 162, 255);
+    background-color: rgb(42, 53, 59);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .logo{
     text-align: center;
+    color: aliceblue;
 }
 
 .container{
@@ -13,10 +14,10 @@ body{
 }
 
 .menu{
-    background-color: rgb(127, 251, 255);
+    background-color: rgb(114, 127, 128);
     padding: 1rem;
     margin-right: 1rem;
-    width: 14%;
+    width: 15%;
     border-style: solid;
 }
 
@@ -30,7 +31,7 @@ ul{
 }
 
 .item-menu{
-    padding: 0.7rem;
+    padding: 0.5rem;
     margin: 0rem 0rem 0rem 0rem;
 }
 
@@ -39,23 +40,34 @@ ul{
 }
 
 .sec1{
-    background-color: wheat;
+    background-color: #daf0ea;
     padding: 2rem;
     border-style: solid;
 }
 
 .sec2{
-    background-color: wheat;
+    background-color: #daf0ea;
     padding: 2rem;
     border-style: solid;
 }
 
 .sec3{
-    background-color: wheat;
+    background-color: #daf0ea;
     padding: 2rem;
     border-style: solid;
 }
 
 .nome{
     text-align: center;
+    color: aliceblue;
+}
+
+.contato_text{
+    color: inherit;
+    text-decoration: none;
+}
+
+.foto{
+    width: 90%;
+    border-style: solid;
 }
