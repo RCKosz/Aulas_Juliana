@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(0, 162, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.logo{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: row
+}
+
+.menu{
+    background-color: rgb(127, 251, 255);
+    padding: 1rem;
+    margin-right: 1rem;
+    width: 14%;
+    border-style: solid;
+}
+
+.conteudo{
+    padding: 0rem;
+    width: 60%;
+}
+
+ul{
+    list-style: none;
+}
+
+.item-menu{
+    padding: 0.7rem;
+    margin: 0rem 0rem 0rem 0rem;
+}
+
+.item-menu:hover{
+    background-color: steelblue;
+}
+
+.sec1{
+    background-color: wheat;
+    padding: 2rem;
+    border-style: solid;
+}
+
+.sec2{
+    background-color: wheat;
+    padding: 2rem;
+    border-style: solid;
+}
+
+.sec3{
+    background-color: wheat;
+    padding: 2rem;
+    border-style: solid;
+}
+
+.nome{
+    text-align: center;
+}
