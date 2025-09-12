@@ -1,0 +1,8 @@
+body{
+    background-color: lightslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+td:hover{
+    background-color: rgba(0, 255, 213, 0.555);
+}
