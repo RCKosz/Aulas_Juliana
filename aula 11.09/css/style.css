@@ -1,0 +1,29 @@
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+label{
+    display: block;
+    margin-top: 0.5rem;
+    
+}
+
+.formulario{
+    margin: 1rem;
+    border-style: solid;
+    padding: 2rem;
+}
+
+input{
+    border-radius: 50%;
+    border-color: turquoise;
+    padding: 1%;
+}
+
+::placeholder{
+    text-align: center;
+}
+
+#nasc:hover{
+    background-color: rgb(42, 91, 165);
+}
