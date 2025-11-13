@@ -1,0 +1,33 @@
+/* Seletor de elementos gráficos que ocorrem na página*/
+
+body {
+    background-color: cornflowerblue;
+}
+
+h1 {
+    padding: 2%;
+    background-color: rgb(120, 60, 120);
+    text-align: center;
+}
+
+/*Seletor que identificará somente ID das coisas*/
+#paragrafoUm {
+    color: whitesmoke;
+}
+
+/*Seletores que identificarão com base na Classe*/
+.myclass{
+    color: aliceblue;
+    width: 13%;
+    border-style: solid;
+    border-color: sienna;
+}
+
+/*Junção de seletores (IMPORTANTE) */
+li.myclass{
+    font-size: x-large;
+}
+
+.newClass{
+    font-family: 'Times New Roman', Times, serif;
+}
